@@ -79,6 +79,14 @@ Inverse range mapping simply involves adding 128 to the image instead of subtrac
 
 Inverse color transform simply includes the conversion from YCbCr to RGB.
 
+I also tried Discrete Wavelet Transform for which I kept the entire process exactly the same just replacing DCT with DWT.
+
+As far as 2D images are concerned, same process is followed except that at the start all three channels are created with the same values so as to convert it in to a 3D image.
+
+# Results
+
+![Image description](jpeg_2000_color.png)
+
 # Code Structure
 
 # jpeg
