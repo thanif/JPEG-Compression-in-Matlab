@@ -47,7 +47,7 @@ In this step, 8*8 patches are generated of the input image and all other operati
 
 # DCT
 
-In this step Discrete Wavelet Transform is applied on a patch.
+In this step Discrete Cosine Transform is applied on a patch.
 
 # Quantization
 
