@@ -83,9 +83,13 @@ I also tried Discrete Wavelet Transform for which I kept the entire process exac
 
 As far as 2D images are concerned, same process is followed except that at the start all three channels are created with the same values so as to convert it in to a 3D image.
 
-# Results
+# Results using DWT
 
 ![alt-text-1](jpeg_2000_color.png "RGB Decompression using DWT") ![alt-text-2](jpeg_2000_gray.png "Gray Scale Decompression using DWT")
+
+# Results using DCT
+
+![alt-text-1](jpeg_color.png "RGB Decompression using DCT") ![alt-text-2](jpeg_gray.png "Gray Scale Decompression using DCT")
 
 # Code Structure
 
