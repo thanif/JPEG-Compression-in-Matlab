@@ -85,7 +85,7 @@ As far as 2D images are concerned, same process is followed except that at the s
 
 # Results
 
-![Image description](jpeg_2000_color.png,jpeg_2000_gray.png)
+![alt-text-1](jpeg_2000_color.png "title-1") ![alt-text-2](jpeg_2000_gray.png "title-2")
 
 # Code Structure
 
