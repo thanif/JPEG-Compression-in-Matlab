@@ -124,3 +124,13 @@ Compression using DCT with GUI.
 # jpeg_2000_gui
 
 Compression using DWT with GUI.
+
+# References
+
+https://medium.com/breaktheloop/what-is-ycbcr-964fde85eeb3
+
+https://medium.com/breaktheloop/jpeg-compression-algorithm-969af03773da
+
+https://www.youtube.com/watch?v=Q2aEzeMDHMA
+
+http://ijcsit.com/docs/Volume%205/vol5issue02/ijcsit20140502346.pdf
