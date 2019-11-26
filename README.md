@@ -85,7 +85,7 @@ As far as 2D images are concerned, same process is followed except that at the s
 
 # Results
 
-![Image description](jpeg_2000_color.png) ![Image description](jpeg_2000_gray.png)
+![Image description](jpeg_2000_color.png,jpeg_2000_gray.png)
 
 # Code Structure
 
